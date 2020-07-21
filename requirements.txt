@@ -25,7 +25,7 @@ singledispatch==3.4.0.3
 six==1.11.0
 Unidecode==0.4.21
 urllib3==1.22
-wagtail==1.13.1
+wagtail==2.7.4
 webencodings==0.5.1
 Willow==1.0
 wrapt==1.10.11
