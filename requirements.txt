@@ -24,7 +24,7 @@ requests==2.18.4
 singledispatch==3.4.0.3
 six==1.11.0
 Unidecode==0.4.21
-urllib3==1.22
+urllib3==1.26.5
 wagtail==1.13.1
 webencodings==0.5.1
 Willow==1.0
